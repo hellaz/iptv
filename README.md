@@ -3,12 +3,10 @@
 
 
 - [Github Site](https://bit.ly/_iptv_)
-- [Submit your feedback](https://github.com/kunsh13/iptv/discussions)
 
 - [Firebase Site ](https://kunsh13-iptv.firebaseapp.com/)       ```[not up to date]```
 
-
-- [Netlify Site](https://kunsh13.netlify.app/) <br><br>
+- [Netlify Site](https://kunsh13.netlify.app/) 
 
 - [Vercel Site](https://iptv13.vercel.app)
 
